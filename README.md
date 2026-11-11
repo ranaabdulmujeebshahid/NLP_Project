@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # NLP Assignment 1 — Project Phase 1
 
 ## Team Members
@@ -20,3 +21,6 @@
 2. Create virtual environment:
    ```bash
    python -m venv venv
+=======
+# NLP_Project
+>>>>>>> 284f313d44ac2503615567f8e15b130e80643e49
